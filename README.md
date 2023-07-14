@@ -4,7 +4,7 @@ What the project does?
 How to install it:
 - Download main.py and use on your IDE
 - I used python with the following libraries:
-  -imports - pip install imports
+  - imports - pip install imports
   - BeautifulSoup - pip install beautifulsoup4  
 
 Example usage:
