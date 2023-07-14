@@ -11,7 +11,7 @@ soup = BeautifulSoup(page.content, 'html.parser')
 s = soup.find('div', class_ = 'elementor-widget-container')
 content = soup.find_all('p')
 
-count = 0 # to
+count = 0 # to use as a counter on the list
 list_numb = []
 list_string = []
 
